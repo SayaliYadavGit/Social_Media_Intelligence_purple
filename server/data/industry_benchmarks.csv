@@ -1,0 +1,49 @@
+platform,avg_engagement_rate,avg_reach,avg_ctr,best_posting_time,top_content_type
+Instagram,3.8%,85000,2.1%,2pm-4pm,carousel
+LinkedIn,5.2%,38000,3.4%,9am-11am,article
+Twitter,2.1%,52000,1.8%,12pm-2pm,thread
+Facebook,2.9%,95000,2.5%,1pm-3pm,video
+TikTok,8.5%,180000,4.2%,7pm-9pm,short_video
+YouTube,6.1%,125000,5.8%,6pm-8pm,tutorial
+```
+
+---
+
+### **3. Root Files**
+
+#### `.gitignore`
+```
+# Dependencies
+node_modules/
+package-lock.json
+
+# Environment variables
+.env
+.env.local
+
+# Build outputs
+dist/
+build/
+.vite/
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ChromaDB
+chroma/
+.chroma/
+
+# Temporary files
+*.tmp
+.cache/

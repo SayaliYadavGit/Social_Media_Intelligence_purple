@@ -1,0 +1,46 @@
+# Dependencies
+node_modules/
+package-lock.json
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+
+# ChromaDB / Vector Store
+chroma/
+.chroma/
+*.db
+*.sqlite
+*.sqlite3
+
+# Build outputs
+dist/
+build/
+
+# Uploads (future feature)
+uploads/
+temp/
+
+# Cache
+.cache/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.temp

@@ -1,0 +1,25 @@
+{
+  "voice": "Professional yet approachable, data-driven but human",
+  "tone": ["Confident", "Helpful", "Authentic", "Optimistic"],
+  "topics": [
+    "Marketing strategy",
+    "Social media optimization",
+    "Content creation",
+    "Data analytics",
+    "Customer success",
+    "Industry trends",
+    "Team culture"
+  ],
+  "hashtag_strategy": "Use 5-8 relevant hashtags per post, mix of branded, industry, and trending tags",
+  "posting_schedule": {
+    "Instagram": "Mon/Wed/Fri at 10am, 2pm",
+    "LinkedIn": "Tue/Thu at 9am, 4pm",
+    "Twitter": "Daily at 11am, 3pm, 7pm"
+  },
+  "donts": [
+    "Never post controversial political content",
+    "Avoid overly sales-focused messaging",
+    "Don't use industry jargon without explanation",
+    "Never post without data to back claims"
+  ]
+}

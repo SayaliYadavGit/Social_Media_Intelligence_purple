@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Summer Product Launch",
+    "platform": "Instagram",
+    "date_range": "2024-06-01 to 2024-06-30",
+    "metrics": {
+      "engagement_rate": 4.8,
+      "reach": 125000,
+      "impressions": 350000,
+      "clicks": 8500,
+      "conversions": 450
+    },
+    "content_type": "carousel",
+    "budget": 5000,
+    "roi": 3.2
+  },
+  {
+    "name": "B2B Thought Leadership",
+    "platform": "LinkedIn",
+    "date_range": "2024-06-01 to 2024-06-30",
+    "metrics": {
+      "engagement_rate": 6.2,
+      "reach": 45000,
+      "impressions": 95000,
+      "clicks": 3200,
+      "conversions": 180
+    },
+    "content_type": "article",
+    "budget": 3000,
+    "roi": 4.1
+  },
+  {
+    "name": "Video Tutorial Series",
+    "platform": "YouTube",
+    "date_range": "2024-05-15 to 2024-06-15",
+    "metrics": {
+      "engagement_rate": 7.5,
+      "reach": 89000,
+      "impressions": 210000,
+      "clicks": 12000,
+      "conversions": 620
+    },
+    "content_type": "video",
+    "budget": 8000,
+    "roi": 5.3
+  }
+]
